@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "903655692062",
+    "project_id": "digital-wellbeing-44244",
+    "storage_bucket": "digital-wellbeing-44244.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:903655692062:android:7e13498c5c1ef0a710db0f",
+        "android_client_info": {
+          "package_name": "com.example.digital_wellbeing"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_q1firn9uRj1wrfVzipvsMhgSeQe11GI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
